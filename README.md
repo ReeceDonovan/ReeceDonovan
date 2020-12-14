@@ -4,6 +4,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ReeceDonovan&layout=compact&theme=synthwave">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ReeceDonovan&layout=compact&theme=synthwave">
-</p>
