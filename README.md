@@ -1,6 +1,4 @@
-# Reece Donovan
-
-## About Me
+# About Me
 - Computer Science Student (3rd Year) - University College Cork
 - Sys Admin @ [UCC Netsoc](https://github.com/UCCNetsoc/)
 
