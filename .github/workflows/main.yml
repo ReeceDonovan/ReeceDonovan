@@ -14,7 +14,7 @@ jobs:
           config_timezone: Europe/London
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GIT_TOKEN }}
+#           committer_token: ${{ secrets.GIT_TOKEN }}
           config_twemoji: yes
           config_gemoji: yes
           plugin_languages: yes
@@ -35,8 +35,9 @@ jobs:
           plugin_activity_limit: 5
           plugin_activity_days: 0
           plugin_activity_filter: all
+          plugin_activity_visibility: public
           plugin_people: yes
-          plugin_people_types: followers, sponsors 
+          plugin_people_types: followers
           plugin_people_limit: 28
           plugin_people_size: 28
           plugin_people_identicons: no
