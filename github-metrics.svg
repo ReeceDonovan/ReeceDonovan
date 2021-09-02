@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3176" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3196" class="">
     <defs>
         <style/>
     </defs>
@@ -1680,16 +1680,27 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 82 edited files from 16 commits over last 11 days
+            estimation from 126 edited files from 16 commits over last 11 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
+                        <div class="field language details">
+                            <div class="field">
+                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                      Go
+                    </div>
+                            <small>
+                                <div>63.1 kB</div>
+                                <div>100%</div>
+                            </small>
+                        </div>
                     </section>
                     <section>
                     </section>
@@ -1891,12 +1902,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Go</span>
-                            <div class="bar" style="width: 79.69361059416889%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.69373036949166%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.30638940583110824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.3062696305083375%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -4759,7 +4770,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 02/09/2021, 21:37 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 02/09/2021, 22:09 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
