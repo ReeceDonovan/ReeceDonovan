@@ -1680,7 +1680,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 118 edited files from 15 commits over last 12 days
+            estimation from 135 edited files from 15 commits over last 12 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1697,7 +1697,7 @@
                       Go
                     </div>
                             <small>
-                                <div>55.6 kB</div>
+                                <div>66.3 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1908,12 +1908,12 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Go</span>
-                            <div class="bar" style="width: 79.6589407950042%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 79.65898686679174%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">100%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.3410592049957968%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.3410131332082551%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -4752,7 +4752,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 05/09/2021, 23:11 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 05/09/2021, 23:37 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
