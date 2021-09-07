@@ -1680,7 +1680,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 115 edited files from 21 commits over last 14 days
+            estimation from 133 edited files from 21 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -1697,7 +1697,7 @@
                       Go
                     </div>
                             <small>
-                                <div>45.7 kB</div>
+                                <div>56.3 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -4739,7 +4739,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 07/09/2021, 23:11 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 07/09/2021, 23:38 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
