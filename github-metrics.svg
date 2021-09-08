@@ -1697,7 +1697,7 @@
                       Go
                     </div>
                             <small>
-                                <div>54.8 kB</div>
+                                <div>55.7 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1906,6 +1906,16 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">Go</span>
+                            <div class="bar" style="width: 79.55122739307993%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">99%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Dockerfile</span>
+                            <div class="bar" style="width: 0.44877260692007365%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -4734,7 +4744,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 08/09/2021, 23:38 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 09/09/2021, 00:11 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
