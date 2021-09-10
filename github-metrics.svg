@@ -1687,8 +1687,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.7855686913983" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="445.7855686913983" y="0" width="14.214431308601712" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.77977161500814" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="445.77977161500814" y="0" width="14.220228384991843" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -4728,7 +4728,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10/09/2021, 07:45 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 10/09/2021, 08:11 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
