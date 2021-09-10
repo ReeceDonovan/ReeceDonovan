@@ -1687,8 +1687,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="445.77513054830285" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="445.77513054830285" y="0" width="14.224869451697128" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="444.96291185095737" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="444.96291185095737" y="0" width="15.03708814904261" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1698,8 +1698,8 @@
                       Go
                     </div>
                             <small>
-                                <div>11.8 kB</div>
-                                <div>96.91%</div>
+                                <div>11.2 kB</div>
+                                <div>96.73%</div>
                             </small>
                         </div>
                     </section>
@@ -1711,7 +1711,7 @@
                     </div>
                             <small>
                                 <div>379 bytes</div>
-                                <div>3.09%</div>
+                                <div>3.27%</div>
                             </small>
                         </div>
                     </section>
@@ -4728,7 +4728,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10/09/2021, 10:37 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 10/09/2021, 11:13 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
