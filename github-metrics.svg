@@ -1928,6 +1928,16 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">Go</span>
+                            <div class="bar" style="width: 64.64589235127478%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">81%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Dockerfile</span>
+                            <div class="bar" style="width: 15.354107648725213%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">19%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -4725,7 +4735,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11/09/2021, 05:14 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 11/09/2021, 05:48 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
