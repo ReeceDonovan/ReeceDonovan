@@ -1687,9 +1687,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="330.49018955769867" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="330.49018955769867" y="0" width="117.91420019953443" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.4043897572331" y="0" width="11.595610242766877" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="339.5061881188119" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="339.5061881188119" y="0" width="109.70544554455445" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="449.21163366336634" y="0" width="10.788366336633663" height="8" fill="#384d54"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1699,8 +1699,8 @@
                       Go
                     </div>
                             <small>
-                                <div>10.8 kB</div>
-                                <div>71.85%</div>
+                                <div>11.9 kB</div>
+                                <div>73.81%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1710,7 +1710,7 @@
                     </div>
                             <small>
                                 <div>379 bytes</div>
-                                <div>2.52%</div>
+                                <div>2.35%</div>
                             </small>
                         </div>
                     </section>
@@ -1722,7 +1722,7 @@
                     </div>
                             <small>
                                 <div>3.85 kB</div>
-                                <div>25.63%</div>
+                                <div>23.85%</div>
                             </small>
                         </div>
                     </section>
@@ -4735,7 +4735,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11/09/2021, 02:52 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 11/09/2021, 03:24 (timezone Europe/London) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
