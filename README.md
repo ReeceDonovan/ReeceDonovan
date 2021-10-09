@@ -4,7 +4,7 @@
 
 <details>
 <summary><u><b>:zap: My stats</b></u></summary>
-    <a href="https://github.com/Milo123459/Milo123459">
+    <a href="https://github.com/ReeceDonovan/ReeceDonovan">
     <img align="center" src="/github-metrics.svg" alt="Milo's github stats">
 </a>
 </details>
