@@ -1758,8 +1758,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="394.7782635852592" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="394.7782635852592" y="0" width="65.22173641474079" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="393.1819595645412" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="393.1819595645412" y="0" width="66.8180404354588" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1770,7 +1770,7 @@
                     </div>
                             <small>
                                 <div>2.75 kB</div>
-                                <div>85.82%</div>
+                                <div>85.47%</div>
                             </small>
                         </div>
                     </section>
@@ -1781,8 +1781,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>454 bytes</div>
-                                <div>14.18%</div>
+                                <div>467 bytes</div>
+                                <div>14.53%</div>
                             </small>
                         </div>
                     </section>
@@ -4845,7 +4845,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Oct 2021, 11:39:50 (timezone Europe/London) with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 15 Oct 2021, 12:10:10 (timezone Europe/London) with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
