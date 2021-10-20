@@ -1751,7 +1751,7 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 54 edited files from 43 commits over last 13 days
+            estimation from 54 edited files from 43 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
@@ -4417,7 +4417,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
                   <span class="prefix"></span> Developer
                   
                     <span class="gh">
-                      ranked 4.16m out of 78m users
+                      ranked 4.16m out of 79m users
                     </span>
                   
                   
@@ -4616,7 +4616,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
                   <span class="prefix"></span> Influencer
                   
                     <span class="gh">
-                      ranked 401k out of 78m users
+                      ranked 401k out of 79m users
                     </span>
                   
                   
@@ -4868,7 +4868,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Oct 2021, 07:14:29 (timezone Europe/London) with lowlighter/metrics@3.15.0-beta</span>
+                <span>Last updated 20 Oct 2021, 07:44:38 (timezone Europe/London) with lowlighter/metrics@3.15.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
