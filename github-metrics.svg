@@ -1768,7 +1768,7 @@
                       Go
                     </div>
                             <small>
-                                <div>60 kB</div>
+                                <div>58.2 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -1979,18 +1979,8 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Go</span>
-                            <div class="bar" style="width: 79.36711014325087%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">99%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 0.5172003130422947%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">TSX</span>
-                            <div class="bar" style="width: 0.11568954370682909%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">0%</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
                         </div>
                     </div>
                 </section>
@@ -4823,7 +4813,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Nov 2021, 19:35:29 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 1 Nov 2021, 20:12:59 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
