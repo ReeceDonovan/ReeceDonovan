@@ -1758,9 +1758,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.17724579634177" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="423.17724579634177" y="0" width="21.59951272633308" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="444.77675852267487" y="0" width="15.223241477325162" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.1656881208227" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="423.1656881208227" y="0" width="21.60629223440789" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="444.7719803552306" y="0" width="15.228019644769397" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1771,7 +1771,7 @@
                     </div>
                             <small>
                                 <div>49.8 kB</div>
-                                <div>92%</div>
+                                <div>91.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -4855,7 +4855,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2021, 20:12:53 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 3 Nov 2021, 20:37:48 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
