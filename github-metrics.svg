@@ -1751,15 +1751,14 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 62 edited files from 33 commits over last 14 days
+            estimation from 9 edited files from 33 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="439.88708871181154" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="439.88708871181154" y="0" width="20.11291128818842" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1769,22 +1768,12 @@
                       Go
                     </div>
                             <small>
-                                <div>65 kB</div>
-                                <div>95.63%</div>
+                                <div>2.28 kB</div>
+                                <div>100%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TypeScript
-                    </div>
-                            <small>
-                                <div>2.97 kB</div>
-                                <div>4.37%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -4844,7 +4833,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2021, 04:48:28 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 3 Nov 2021, 05:10:54 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
