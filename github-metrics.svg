@@ -1990,8 +1990,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Go</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
+                            <div class="bar" style="width: 75.00028826751225%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">94%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 3.429230325742289%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">TSX</span>
+                            <div class="bar" style="width: 1.5704814067454598%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2%</span>
                         </div>
                     </div>
                 </section>
@@ -4834,7 +4844,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2021, 04:15:44 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 3 Nov 2021, 04:48:28 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
