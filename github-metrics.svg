@@ -1813,9 +1813,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.17384723299" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="423.17384723299" y="0" width="21.601506257614354" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="444.77535349060435" y="0" width="15.224646509395653" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="423.1731674450372" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="423.1731674450372" y="0" width="21.60190500802983" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="444.775072453067" y="0" width="15.224927546932973" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -4905,7 +4905,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2021, 07:35:57 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 4 Nov 2021, 08:14:35 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
