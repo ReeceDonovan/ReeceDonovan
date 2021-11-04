@@ -1813,9 +1813,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.2381225308579" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="419.2381225308579" y="0" width="27.93728123144945" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="447.1754037623073" y="0" width="12.82459623769267" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="419.15276099997953" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="419.15276099997953" y="0" width="23.96019737515612" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="443.11295837513563" y="0" width="16.887041624864356" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1826,7 +1826,7 @@
                     </div>
                             <small>
                                 <div>44.5 kB</div>
-                                <div>91.14%</div>
+                                <div>91.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1835,8 +1835,8 @@
                       TSX
                     </div>
                             <small>
-                                <div>1.36 kB</div>
-                                <div>2.79%</div>
+                                <div>1.79 kB</div>
+                                <div>3.67%</div>
                             </small>
                         </div>
                     </section>
@@ -1847,8 +1847,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>2.97 kB</div>
-                                <div>6.07%</div>
+                                <div>2.54 kB</div>
+                                <div>5.21%</div>
                             </small>
                         </div>
                     </section>
@@ -2056,18 +2056,8 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Go</span>
-                            <div class="bar" style="width: 72.89904013425841%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">91%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 4.16528519678271%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">TSX</span>
-                            <div class="bar" style="width: 2.9356746689588835%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">4%</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
                         </div>
                     </div>
                 </section>
@@ -4915,7 +4905,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Nov 2021, 14:11:43 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 4 Nov 2021, 14:36:38 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
