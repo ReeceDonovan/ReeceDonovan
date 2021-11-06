@@ -1813,9 +1813,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.2033996443194" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="338.2033996443194" y="0" width="87.29517349766326" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="425.49857314198266" y="0" width="34.50142685801728" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="338.24368462397155" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="338.24368462397155" y="0" width="87.2663000785546" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="425.50998470252614" y="0" width="34.49001529747385" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1826,7 +1826,7 @@
                     </div>
                             <small>
                                 <div>35.5 kB</div>
-                                <div>73.52%</div>
+                                <div>73.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1848,7 +1848,7 @@
                     </div>
                             <small>
                                 <div>9.18 kB</div>
-                                <div>18.98%</div>
+                                <div>18.97%</div>
                             </small>
                         </div>
                     </section>
@@ -4911,7 +4911,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Nov 2021, 11:10:15 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 6 Nov 2021, 11:35:11 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
