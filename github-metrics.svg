@@ -1813,9 +1813,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.57070086070615" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="287.57070086070615" y="0" width="123.58510451431582" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="411.155805375022" y="0" width="48.844194624978044" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="287.53030746705707" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="287.53030746705707" y="0" width="123.61405563689604" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="411.14436310395314" y="0" width="48.85563689604685" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1826,7 +1826,7 @@
                     </div>
                             <small>
                                 <div>21.3 kB</div>
-                                <div>62.52%</div>
+                                <div>62.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -4881,7 +4881,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Nov 2021, 07:35:35 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 7 Nov 2021, 08:14:10 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
