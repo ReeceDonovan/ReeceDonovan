@@ -1813,9 +1813,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="224.64015097360823" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="224.64015097360823" y="0" width="151.28584908357877" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="375.92600005718697" y="0" width="84.07399994281303" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="223.3056676709681" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="223.3056676709681" y="0" width="150.38712978227503" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="373.69279745324314" y="0" width="86.30720254675687" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1826,7 +1826,7 @@
                     </div>
                             <small>
                                 <div>17 kB</div>
-                                <div>48.83%</div>
+                                <div>48.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1835,8 +1835,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>6.39 kB</div>
-                                <div>18.28%</div>
+                                <div>6.60 kB</div>
+                                <div>18.76%</div>
                             </small>
                         </div>
                     </section>
@@ -1848,7 +1848,7 @@
                     </div>
                             <small>
                                 <div>11.5 kB</div>
-                                <div>32.89%</div>
+                                <div>32.69%</div>
                             </small>
                         </div>
                     </section>
@@ -2054,6 +2054,11 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">Go</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -4757,7 +4762,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
                   <span class="prefix"></span> Inspirer
                   
                     <span class="gh">
-                      ranked 3.68m out of 238m repositories
+                      ranked 3.75m out of 238m repositories
                     </span>
                   
                   
@@ -4881,7 +4886,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2021, 09:39:15 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 8 Nov 2021, 10:13:44 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
