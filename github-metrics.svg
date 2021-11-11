@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3115" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3095" class="">
     <defs>
         <style/>
     </defs>
@@ -1806,16 +1806,14 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 69 edited files from 37 commits over last 14 days
+            estimation from 2 edited files from 37 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.13101762877548" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="234.13101762877548" y="0" width="180.0075924739602" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="414.1386101027357" y="0" width="45.86138989726434" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#00ADD8"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1825,32 +1823,12 @@
                       Go
                     </div>
                             <small>
-                                <div>21.4 kB</div>
-                                <div>50.9%</div>
-                            </small>
-                        </div>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TypeScript
-                    </div>
-                            <small>
-                                <div>4.20 kB</div>
-                                <div>9.97%</div>
+                                <div>1 kB</div>
+                                <div>100%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
-                      TSX
-                    </div>
-                            <small>
-                                <div>16.4 kB</div>
-                                <div>39.13%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -4925,7 +4903,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2021, 15:13:01 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 11 Nov 2021, 15:42:07 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
