@@ -1806,16 +1806,16 @@
         Recently used languages
       </h3>
                 <small>
-            estimation from 69 edited files from 38 commits over last 14 days
+            estimation from 69 edited files from 41 commits over last 14 days
           </small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.60294850794102" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="234.60294850794102" y="0" width="180.11015359779694" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="414.7131021057379" y="0" width="45.28689789426204" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.48151316414788" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="234.48151316414788" y="0" width="174.38551468491588" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="408.86702784906373" y="0" width="51.13297215093622" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1826,7 +1826,7 @@
                     </div>
                             <small>
                                 <div>21.4 kB</div>
-                                <div>51%</div>
+                                <div>50.97%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1835,8 +1835,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>4.15 kB</div>
-                                <div>9.84%</div>
+                                <div>4.68 kB</div>
+                                <div>11.12%</div>
                             </small>
                         </div>
                     </section>
@@ -1847,8 +1847,8 @@
                       TSX
                     </div>
                             <small>
-                                <div>16.4 kB</div>
-                                <div>39.15%</div>
+                                <div>15.9 kB</div>
+                                <div>37.91%</div>
                             </small>
                         </div>
                     </section>
@@ -1873,7 +1873,7 @@
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/></svg>
       Recent coding habits
       
-        <small class="h-details">(computed from last 38 commits)</small>
+        <small class="h-details">(computed from last 41 commits)</small>
       
     </h2>
                 <div class="row">
@@ -1989,8 +1989,8 @@
               19
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               20
             </div>
                     <div class="entry">
@@ -2035,8 +2035,8 @@
                 Wed
               </div>
                         <div class="entry">
-                <span class="value">3</span>
-                <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">6</span>
+                <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Thu
               </div>
                         <div class="entry">
@@ -4905,7 +4905,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Nov 2021, 20:38:17 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 11 Nov 2021, 21:10:57 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
