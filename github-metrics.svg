@@ -1879,9 +1879,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.8734711092366" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="218.8734711092366" y="0" width="176.63728384647828" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="395.51075495571484" y="0" width="64.48924504428511" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="218.8595417914856" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="218.8595417914856" y="0" width="176.6267246107759" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="395.4862664022615" y="0" width="64.5137335977385" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -4962,7 +4962,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2021, 15:41:52 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 12 Nov 2021, 16:18:17 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
