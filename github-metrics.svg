@@ -1879,9 +1879,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="199.58430031350514" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="199.58430031350514" y="0" width="178.28956475713528" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="377.8738650706404" y="0" width="82.12613492935955" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="219.12303305523287" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="219.12303305523287" y="0" width="176.28556341746753" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="395.4085964727004" y="0" width="64.5914035272996" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1891,8 +1891,8 @@
                       Go
                     </div>
                             <small>
-                                <div>21.3 kB</div>
-                                <div>43.39%</div>
+                                <div>22.5 kB</div>
+                                <div>47.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1901,8 +1901,8 @@
                       TypeScript
                     </div>
                             <small>
-                                <div>8.77 kB</div>
-                                <div>17.85%</div>
+                                <div>6.65 kB</div>
+                                <div>14.04%</div>
                             </small>
                         </div>
                     </section>
@@ -1913,8 +1913,8 @@
                       TSX
                     </div>
                             <small>
-                                <div>19 kB</div>
-                                <div>38.76%</div>
+                                <div>18.1 kB</div>
+                                <div>38.32%</div>
                             </small>
                         </div>
                     </section>
@@ -4913,7 +4913,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2021, 02:28:06 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 14 Nov 2021, 02:50:24 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
