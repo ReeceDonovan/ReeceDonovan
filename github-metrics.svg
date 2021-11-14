@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3028" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3017" class="">
     <defs>
         <style/>
     </defs>
@@ -1879,9 +1879,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.9159486225041" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="197.9159486225041" y="0" width="191.81728361021115" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="389.73323223271524" y="0" width="70.26676776728476" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="197.93414068065354" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="197.93414068065354" y="0" width="191.7926327642071" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="389.7267734448606" y="0" width="70.27322655513937" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1914,7 +1914,7 @@
                     </div>
                             <small>
                                 <div>18.1 kB</div>
-                                <div>41.7%</div>
+                                <div>41.69%</div>
                             </small>
                         </div>
                     </section>
@@ -2120,31 +2120,6 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">Go</span>
-                            <div class="bar" style="width: 33.98675015881659%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">42%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">TSX</span>
-                            <div class="bar" style="width: 32.93220800435611%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">41%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 12.066430710590799%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">15%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">SCSS</span>
-                            <div class="bar" style="width: 0.9583446773754424%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.05626644886105817%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">0%</span>
-                        </div>
                     </div>
                 </section>
             </div>
@@ -4937,7 +4912,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Nov 2021, 20:12:26 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 14 Nov 2021, 20:37:30 (timezone Europe/London) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
