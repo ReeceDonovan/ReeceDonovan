@@ -1934,9 +1934,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.2940591527687" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="230.2940591527687" y="0" width="116.5258402704776" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="346.81989942324634" y="0" width="113.18010057675369" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.56330597889803" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="237.56330597889803" y="0" width="119.52989449003518" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="357.09320046893316" y="0" width="102.90679953106682" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1949,23 +1949,9 @@
                             </div>
                             <small>
                                 <div>17.6 kB</div>
-                                <div>50.06%</div>
+                                <div>51.64%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                Go
-                            </div>
-                            <small>
-                                <div>8.66 kB</div>
-                                <div>24.6%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1974,8 +1960,22 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>8.92 kB</div>
-                                <div>25.33%</div>
+                                <div>7.63 kB</div>
+                                <div>22.37%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#00ADD8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                Go
+                            </div>
+                            <small>
+                                <div>8.87 kB</div>
+                                <div>25.98%</div>
                             </small>
                         </div>
                     </section>
@@ -5009,7 +5009,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2021, 06:14:47 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 17 Nov 2021, 06:45:14 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
