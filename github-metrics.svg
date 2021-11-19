@@ -1456,7 +1456,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1130 Commits
+                            1291 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1934,9 +1934,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.95680419421018" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="230.95680419421018" y="0" width="128.99817643036243" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="359.95498062457256" y="0" width="100.0450193754274" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="237.03532576909578" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="237.03532576909578" y="0" width="120.2865832261083" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="357.32190899520407" y="0" width="102.67809100479589" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1949,7 +1949,7 @@
                             </div>
                             <small>
                                 <div>17.6 kB</div>
-                                <div>50.21%</div>
+                                <div>51.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -1961,7 +1961,7 @@
                             </div>
                             <small>
                                 <div>7.63 kB</div>
-                                <div>21.75%</div>
+                                <div>22.32%</div>
                             </small>
                         </div>
                     </section>
@@ -1974,8 +1974,8 @@
                                 Go
                             </div>
                             <small>
-                                <div>9.84 kB</div>
-                                <div>28.04%</div>
+                                <div>8.94 kB</div>
+                                <div>26.15%</div>
                             </small>
                         </div>
                     </section>
@@ -5020,7 +5020,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Nov 2021, 05:11:12 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 19 Nov 2021, 05:35:39 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
