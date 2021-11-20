@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3025" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3014" class="">
     <defs>
         <style/>
     </defs>
@@ -2186,29 +2186,9 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">TSX</span>
-                            <div class="bar" style="width: 40.49095164697151%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">51%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Go</span>
-                            <div class="bar" style="width: 22.474167951133186%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">28%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 16.295027687389393%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">20%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">SCSS</span>
-                            <div class="bar" style="width: 0.627961408917052%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
-                        </div>
-                        <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 0.11189130558885653%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">0%</span>
+                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">100%</span>
                         </div>
                     </div>
                 </section>
@@ -5045,7 +5025,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Nov 2021, 02:51:26 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 20 Nov 2021, 03:12:34 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
