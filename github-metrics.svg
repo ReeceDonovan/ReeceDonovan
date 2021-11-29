@@ -546,9 +546,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.5593760754837" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.5593760754837" y="0" width="20.600168461761992" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.1595445372457" y="0" width="12.840455462754282" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="427.2973440667075" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="427.2973440667075" y="0" width="19.839911571734614" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.1372556384421" y="0" width="12.862744361557851" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -561,7 +561,7 @@
                             </div>
                             <small>
                                 <div>692 kB</div>
-                                <div>92.73%</div>
+                                <div>92.89%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -573,7 +573,7 @@
                             </div>
                             <small>
                                 <div>20.8 kB</div>
-                                <div>2.79%</div>
+                                <div>2.8%</div>
                             </small>
                         </div>
                     </section>
@@ -586,8 +586,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>33.4 kB</div>
-                                <div>4.48%</div>
+                                <div>32.1 kB</div>
+                                <div>4.31%</div>
                             </small>
                         </div>
                     </section>
@@ -799,17 +799,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 74.45360600281433%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 74.63325519359793%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">93%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 3.3051497813993933%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.1200926898930295%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.2412442157862835%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.24665211650904%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                     </div>
@@ -3658,7 +3658,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Nov 2021, 11:35:17 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 29 Nov 2021, 12:19:40 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
