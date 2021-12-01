@@ -546,9 +546,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.03033383265563" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.03033383265563" y="0" width="21.145062058634707" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.17539589129035" y="0" width="12.824604108709607" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.12950263944373" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.12950263944373" y="0" width="21.042908016791838" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.17241065623557" y="0" width="12.827589343764465" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -561,7 +561,7 @@
                             </div>
                             <small>
                                 <div>692 kB</div>
-                                <div>92.62%</div>
+                                <div>92.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -586,8 +586,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>34.3 kB</div>
-                                <div>4.6%</div>
+                                <div>34.2 kB</div>
+                                <div>4.57%</div>
                             </small>
                         </div>
                     </section>
@@ -797,21 +797,6 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">HTML</span>
-                            <div class="bar" style="width: 74.18102934579564%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">93%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Java</span>
-                            <div class="bar" style="width: 3.5859316938610175%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">4%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.2330389603433383%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">3%</span>
-                        </div>
                     </div>
                 </section>
             </div>
@@ -3662,7 +3647,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2021, 21:37:19 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 1 Dec 2021, 22:12:20 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
