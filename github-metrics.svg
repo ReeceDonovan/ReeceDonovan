@@ -546,9 +546,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.12950263944373" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.12950263944373" y="0" width="21.042908016791838" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.17241065623557" y="0" width="12.827589343764465" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.15401698813184" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.15401698813184" y="0" width="21.01765572342711" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.171672711559" y="0" width="12.828327288441033" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -586,7 +586,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>34.2 kB</div>
+                                <div>34.1 kB</div>
                                 <div>4.57%</div>
                             </small>
                         </div>
@@ -798,9 +798,24 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
+                            <span class="name">HTML</span>
+                            <div class="bar" style="width: 73.94052967509951%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">92%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Java</span>
+                            <div class="bar" style="width: 3.6232104578932054%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 2.2257993043376127%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
+                        </div>
+                        <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
+                            <div class="bar" style="width: 0.21046056266967783%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">0%</span>
                         </div>
                     </div>
                 </section>
@@ -3658,7 +3673,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2021, 09:39:27 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 3 Dec 2021, 10:13:42 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
