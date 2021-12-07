@@ -546,9 +546,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.2327099989964" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="426.2327099989964" y="0" width="20.936593851403337" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="447.16930385039973" y="0" width="12.830696149600241" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.1232319800085" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="426.1232319800085" y="0" width="21.049367439135164" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.17259941914364" y="0" width="12.827400580856356" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -561,7 +561,7 @@
                             </div>
                             <small>
                                 <div>692 kB</div>
-                                <div>92.66%</div>
+                                <div>92.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -586,8 +586,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>34 kB</div>
-                                <div>4.55%</div>
+                                <div>34.2 kB</div>
+                                <div>4.58%</div>
                             </small>
                         </div>
                     </section>
@@ -799,22 +799,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 74.2610793855063%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">93%</span>
+                            <div class="bar" style="width: 73.94056202600578%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">92%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 3.2920989838869676%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">4%</span>
+                            <div class="bar" style="width: 3.623191113934796%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.235448671546154%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.225787421017648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 0.21137295906056464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.21045943904177422%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3658,7 +3658,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2021, 11:11:52 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 7 Dec 2021, 11:37:33 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
