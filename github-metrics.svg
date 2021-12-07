@@ -540,15 +540,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 179 edited files from 15 commits over last 14 days</small>
+                <small>estimation from 178 edited files from 14 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.5700141019556" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="425.5700141019556" y="0" width="21.390504501882752" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="446.96051860383835" y="0" width="13.039481396161603" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="425.87540376922584" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="425.87540376922584" y="0" width="21.304655913748476" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="447.18005968297433" y="0" width="12.819940317025692" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -560,8 +560,8 @@
                                 HTML
                             </div>
                             <small>
-                                <div>680 kB</div>
-                                <div>92.52%</div>
+                                <div>692 kB</div>
+                                <div>92.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -573,7 +573,7 @@
                             </div>
                             <small>
                                 <div>20.8 kB</div>
-                                <div>2.83%</div>
+                                <div>2.79%</div>
                             </small>
                         </div>
                     </section>
@@ -586,8 +586,8 @@
                                 Java
                             </div>
                             <small>
-                                <div>34.2 kB</div>
-                                <div>4.65%</div>
+                                <div>34.6 kB</div>
+                                <div>4.63%</div>
                             </small>
                         </div>
                     </section>
@@ -617,12 +617,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 15 commits)</small>
+                    <small class="h-details">(computed from last 14 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 27.7 characters per line of code written</li>
+                        <li>Has approximately 27.6 characters per line of code written</li>
                         <li>Mostly pushes code around 18:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -638,7 +638,7 @@
                     </div>
                     <div class="entry">
                         <span class="value">2</span>
-                        <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         01
                     </div>
                     <div class="entry">
@@ -668,7 +668,7 @@
                     </div>
                     <div class="entry">
                         <span class="value">2</span>
-                        <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         07
                     </div>
                     <div class="entry">
@@ -722,7 +722,7 @@
                         17
                     </div>
                     <div class="entry">
-                        <span class="value">11</span>
+                        <span class="value">10</span>
                         <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         18
                     </div>
@@ -768,8 +768,8 @@
                             Mon
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             Tue
                         </div>
                         <div class="entry">
@@ -799,22 +799,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 74.1613742730768%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 74.10412542137087%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">93%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 3.39509279984578%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.454224410080796%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 2.2324440684137814%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.2307239552678046%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 0.2110888586636394%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.21092621328053937%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3416,7 +3416,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 319k out of 81m users</span>
+                                    <span class="gh">ranked 320k out of 81m users</span>
                                 </div>
                                 <div class="text">Followed by 24 users</div>
                             </div>
@@ -3658,7 +3658,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Dec 2021, 18:45:37 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 7 Dec 2021, 19:10:53 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
