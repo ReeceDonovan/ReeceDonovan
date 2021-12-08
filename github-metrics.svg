@@ -546,10 +546,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.07962340423305" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="211.07962340423305" y="0" width="139.0063568862777" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="350.08598029051075" y="0" width="100.41890519128258" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.50488548179334" y="0" width="9.495114518206668" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.07078153962152" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="211.07078153962152" y="0" width="139.01980291336355" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="350.09058445298507" y="0" width="100.41469876742312" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.50528322040816" y="0" width="9.494716779591794" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -562,7 +562,7 @@
                             </div>
                             <small>
                                 <div>43.8 kB</div>
-                                <div>45.89%</div>
+                                <div>45.88%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -3676,7 +3676,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Dec 2021, 08:43:16 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 8 Dec 2021, 09:13:13 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
