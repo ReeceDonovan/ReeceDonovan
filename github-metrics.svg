@@ -786,8 +786,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
+                            <div class="bar" style="width: 41.637179825719564%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">52%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Java</span>
+                            <div class="bar" style="width: 38.36282017428043%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">48%</span>
                         </div>
                     </div>
                 </section>
@@ -3645,7 +3650,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Dec 2021, 11:10:59 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 10 Dec 2021, 11:35:36 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
