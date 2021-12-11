@@ -785,14 +785,14 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">Python</span>
-                            <div class="bar" style="width: 41.637179825719564%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">52%</span>
+                            <span class="name">Java</span>
+                            <div class="bar" style="width: 41.02817597627286%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">51%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Java</span>
-                            <div class="bar" style="width: 38.36282017428043%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">48%</span>
+                            <span class="name">Python</span>
+                            <div class="bar" style="width: 38.97182402372714%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">49%</span>
                         </div>
                     </div>
                 </section>
@@ -3655,7 +3655,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Dec 2021, 11:35:01 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 11 Dec 2021, 12:18:49 (timezone Europe/London) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
