@@ -559,7 +559,7 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>5.67 kB</div>
+                                <div>5.53 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -772,11 +772,6 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
-                        <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
-                        </div>
                     </div>
                 </section>
             </div>
@@ -3632,7 +3627,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Jan 2022, 18:40:25 (timezone Europe/London) with lowlighter/metrics@3.19.0-beta</span>
+                <span>Last updated 22 Jan 2022, 19:09:55 (timezone Europe/London) with lowlighter/metrics@3.19.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
