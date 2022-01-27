@@ -547,8 +547,7 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.77753492350087" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="426.77753492350087" y="0" width="33.2224650764991" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="460" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -560,24 +559,12 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>9.76 kB</div>
-                                <div>92.78%</div>
+                                <div>10.3 kB</div>
+                                <div>100%</div>
                             </small>
                         </div>
                     </section>
                     <section>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                TSX
-                            </div>
-                            <small>
-                                <div>760 bytes</div>
-                                <div>7.22%</div>
-                            </small>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3520,7 +3507,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.71m out of 277m repositories</span>
+                                    <span class="gh">ranked 3.84m out of 277m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -3638,7 +3625,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2022, 01:55:38 (timezone Europe/London) with lowlighter/metrics@3.19.0-beta</span>
+                <span>Last updated 27 Jan 2022, 02:26:47 (timezone Europe/London) with lowlighter/metrics@3.19.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
