@@ -541,14 +541,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 25 edited files from 18 commits over last 8 days</small>
+                <small>estimation from 26 edited files from 18 commits over last 8 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="422.800595871462" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="422.800595871462" y="0" width="37.19940412853799" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="426.77753492350087" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="426.77753492350087" y="0" width="33.2224650764991" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -560,8 +560,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>8.64 kB</div>
-                                <div>91.91%</div>
+                                <div>9.76 kB</div>
+                                <div>92.78%</div>
                             </small>
                         </div>
                     </section>
@@ -575,7 +575,7 @@
                             </div>
                             <small>
                                 <div>760 bytes</div>
-                                <div>8.09%</div>
+                                <div>7.22%</div>
                             </small>
                         </div>
                     </section>
@@ -785,6 +785,16 @@
                 <section class="column chart">
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
+                        <div class="entry">
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 74.2111777587356%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">93%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">TSX</span>
+                            <div class="bar" style="width: 5.788822241264401%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">7%</span>
+                        </div>
                     </div>
                 </section>
             </div>
@@ -3396,7 +3406,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Influencer
-                                    <span class="gh">ranked 288k out of 84m users</span>
+                                    <span class="gh">ranked 289k out of 84m users</span>
                                 </div>
                                 <div class="text">Followed by 27 users</div>
                             </div>
@@ -3638,7 +3648,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2022, 21:10:59 (timezone Europe/London) with lowlighter/metrics@3.19.0-beta</span>
+                <span>Last updated 27 Jan 2022, 21:35:28 (timezone Europe/London) with lowlighter/metrics@3.19.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
