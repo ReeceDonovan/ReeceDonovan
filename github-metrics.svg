@@ -547,8 +547,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="429.2632319324776" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="429.2632319324776" y="0" width="30.73676806752242" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.0006407176037" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="432.0006407176037" y="0" width="27.999359282396284" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -560,8 +560,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>10.6 kB</div>
-                                <div>93.32%</div>
+                                <div>11.7 kB</div>
+                                <div>93.91%</div>
                             </small>
                         </div>
                     </section>
@@ -575,7 +575,7 @@
                             </div>
                             <small>
                                 <div>760 bytes</div>
-                                <div>6.68%</div>
+                                <div>6.09%</div>
                             </small>
                         </div>
                     </section>
@@ -3641,7 +3641,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Feb 2022, 05:35:24 (timezone Europe/London) with lowlighter/metrics@3.19.0-beta</span>
+                <span>Last updated 1 Feb 2022, 06:14:37 (timezone Europe/London) with lowlighter/metrics@3.19.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
