@@ -547,9 +547,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.47299790872185" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="225.47299790872185" y="0" width="213.02374215770698" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="438.49674006642886" y="0" width="21.503259933571165" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="225.3898180029513" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="225.3898180029513" y="0" width="213.11485489424496" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="438.5046728971963" y="0" width="21.49532710280374" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -562,7 +562,7 @@
                             </div>
                             <small>
                                 <div>7.97 kB</div>
-                                <div>49.02%</div>
+                                <div>49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -587,8 +587,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>7.53 kB</div>
-                                <div>46.31%</div>
+                                <div>7.54 kB</div>
+                                <div>46.33%</div>
                             </small>
                         </div>
                     </section>
@@ -3678,7 +3678,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Feb 2022, 22:14:39 (timezone Europe/London) with lowlighter/metrics@3.20.0-beta</span>
+                <span>Last updated 5 Feb 2022, 23:19:55 (timezone Europe/London) with lowlighter/metrics@3.20.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
