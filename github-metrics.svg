@@ -547,8 +547,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.58048477315103" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="244.58048477315103" y="0" width="215.41951522684897" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="244.4599216466638" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="244.4599216466638" y="0" width="215.54007835333624" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -561,7 +561,7 @@
                             </div>
                             <small>
                                 <div>8.55 kB</div>
-                                <div>53.17%</div>
+                                <div>53.14%</div>
                             </small>
                         </div>
                     </section>
@@ -575,7 +575,7 @@
                             </div>
                             <small>
                                 <div>7.54 kB</div>
-                                <div>46.83%</div>
+                                <div>46.86%</div>
                             </small>
                         </div>
                     </section>
@@ -3641,7 +3641,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2022, 07:34:54 (timezone Europe/London) with lowlighter/metrics@3.20.0-beta</span>
+                <span>Last updated 7 Feb 2022, 08:14:52 (timezone Europe/London) with lowlighter/metrics@3.20.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
