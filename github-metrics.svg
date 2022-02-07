@@ -787,13 +787,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 51.10535902598025%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">64%</span>
+                            <div class="bar" style="width: 50.41181956511068%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">63%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 28.894640974019747%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">36%</span>
+                            <div class="bar" style="width: 29.588180434889317%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">37%</span>
                         </div>
                     </div>
                 </section>
@@ -3641,7 +3641,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Feb 2022, 17:36:40 (timezone Europe/London) with lowlighter/metrics@3.20.0-beta</span>
+                <span>Last updated 7 Feb 2022, 18:14:27 (timezone Europe/London) with lowlighter/metrics@3.20.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
