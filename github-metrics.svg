@@ -547,8 +547,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="283.9932971106485" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="283.9932971106485" y="0" width="176.00670288935154" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="284.385671581294" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="284.385671581294" y="0" width="175.61432841870598" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -560,8 +560,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>12.1 kB</div>
-                                <div>61.74%</div>
+                                <div>12.2 kB</div>
+                                <div>61.82%</div>
                             </small>
                         </div>
                     </section>
@@ -575,7 +575,7 @@
                             </div>
                             <small>
                                 <div>7.54 kB</div>
-                                <div>38.26%</div>
+                                <div>38.18%</div>
                             </small>
                         </div>
                     </section>
@@ -3651,7 +3651,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2022, 12:53:50 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 9 Feb 2022, 13:16:09 (timezone Europe/London) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
