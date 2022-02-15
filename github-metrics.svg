@@ -786,14 +786,14 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">Shell</span>
-                            <div class="bar" style="width: 40.53254437869822%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">51%</span>
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 51.76580796252927%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">65%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 39.467455621301774%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">49%</span>
+                            <span class="name">Shell</span>
+                            <div class="bar" style="width: 28.234192037470724%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">35%</span>
                         </div>
                     </div>
                 </section>
@@ -3640,7 +3640,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2022, 12:19:26 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
+                <span>Last updated 15 Feb 2022, 12:53:18 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
