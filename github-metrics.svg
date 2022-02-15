@@ -547,8 +547,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="302.9466715037185" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="302.9466715037185" y="0" width="157.05332849628152" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.15017985611513" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="304.15017985611513" y="0" width="155.84982014388487" height="8" fill="#89e051"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -560,8 +560,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>14.5 kB</div>
-                                <div>65.86%</div>
+                                <div>14.7 kB</div>
+                                <div>66.12%</div>
                             </small>
                         </div>
                     </section>
@@ -574,8 +574,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>7.53 kB</div>
-                                <div>34.14%</div>
+                                <div>7.54 kB</div>
+                                <div>33.88%</div>
                             </small>
                         </div>
                     </section>
@@ -3640,7 +3640,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2022, 21:36:22 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
+                <span>Last updated 15 Feb 2022, 22:12:35 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
