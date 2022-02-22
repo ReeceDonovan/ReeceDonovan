@@ -541,15 +541,15 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 44 edited files from 15 commits over last 13 days</small>
+                <small>estimation from 43 edited files from 15 commits over last 13 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="304.52692137483405" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="304.52692137483405" y="0" width="110.13128780056054" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="414.65820917539463" y="0" width="45.3417908246054" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="320.5239875389408" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="320.5239875389408" y="0" width="91.598753894081" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="412.12274143302176" y="0" width="47.87725856697819" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -561,8 +561,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>22.4 kB</div>
-                                <div>66.2%</div>
+                                <div>22.3 kB</div>
+                                <div>69.68%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -574,7 +574,7 @@
                             </div>
                             <small>
                                 <div>3.34 kB</div>
-                                <div>9.86%</div>
+                                <div>10.41%</div>
                             </small>
                         </div>
                     </section>
@@ -587,8 +587,8 @@
                                 Shell
                             </div>
                             <small>
-                                <div>8.12 kB</div>
-                                <div>23.94%</div>
+                                <div>6.39 kB</div>
+                                <div>19.91%</div>
                             </small>
                         </div>
                     </section>
@@ -800,8 +800,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 80%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">100%</span>
+                            <div class="bar" style="width: 52.90364544836354%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">66%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Shell</span>
+                            <div class="bar" style="width: 19.19403955888005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">24%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">Java</span>
+                            <div class="bar" style="width: 7.902314992756408%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">10%</span>
                         </div>
                     </div>
                 </section>
@@ -3654,7 +3664,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2022, 14:11:55 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
+                <span>Last updated 22 Feb 2022, 14:35:31 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
