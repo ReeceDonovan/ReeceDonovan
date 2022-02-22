@@ -800,17 +800,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 65.21659926403613%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 65.2122890775903%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">82%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 9.738040587313732%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 9.740879769670906%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">12%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 5.045360148650126%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.046831152738802%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                     </div>
@@ -3664,7 +3664,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 22 Feb 2022, 02:48:02 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
+                <span>Last updated 22 Feb 2022, 03:14:08 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
