@@ -541,16 +541,16 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 48 edited files from 20 commits over last 12 days</small>
+                <small>estimation from 50 edited files from 20 commits over last 12 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.25502893710325" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="259.25502893710325" y="0" width="97.434668434337" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="356.6896973714402" y="0" width="64.127680187645" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="420.8173775590852" y="0" width="39.18262244091477" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.2345546801295" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="259.2345546801295" y="0" width="97.44460593079886" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="356.67916061092836" y="0" width="64.13422065835437" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="420.81338126928273" y="0" width="39.18661873071726" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -3696,7 +3696,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2022, 18:40:52 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
+                <span>Last updated 26 Feb 2022, 19:10:11 (timezone Europe/London) with lowlighter/metrics@3.21.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
