@@ -547,10 +547,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.24841933510095" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="259.24841933510095" y="0" width="97.44391189067917" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="356.69233122578015" y="0" width="64.12604527840098" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="420.8183765041811" y="0" width="39.18162349581889" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="259.25502893710325" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="259.25502893710325" y="0" width="97.434668434337" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="356.6896973714402" y="0" width="64.127680187645" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="420.8173775590852" y="0" width="39.18262244091477" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -813,22 +813,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 45.087831119496215%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 45.09242968969122%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">56%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 16.94515972771078%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 16.946887987965017%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">21%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C</span>
-                            <div class="bar" style="width: 11.152640032633913%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 11.1456181952625%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">14%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Java</span>
-                            <div class="bar" style="width: 6.814369120159091%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.8150641270812615%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">9%</span>
                         </div>
                     </div>
@@ -3707,7 +3707,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Feb 2022, 19:38:12 (timezone Europe/London) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 27 Feb 2022, 20:13:46 (timezone Europe/London) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
