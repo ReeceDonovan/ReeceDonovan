@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3428" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3417" class="">
     <defs>
         <style/>
     </defs>
@@ -547,10 +547,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.99441106608916" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="239.99441106608916" y="0" width="106.79558474221042" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="346.7899958082996" y="0" width="70.2629593405058" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="417.0529551488054" y="0" width="42.94704485119464" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.98099868667393" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="239.98099868667393" y="0" width="106.78961634112946" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="346.7706150278034" y="0" width="70.2847402688127" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="417.055355296616" y="0" width="42.944644703383915" height="8" fill="#b07219"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -575,7 +575,7 @@
                             </div>
                             <small>
                                 <div>5.47 kB</div>
-                                <div>15.27%</div>
+                                <div>15.28%</div>
                             </small>
                         </div>
                     </section>
@@ -813,28 +813,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 41.1891236004633%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">51%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Shell</span>
-                            <div class="bar" style="width: 18.32882907727097%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">23%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">C</span>
-                            <div class="bar" style="width: 12.063316970933759%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">15%</span>
-                        </div>
-                        <div class="entry">
-                            <span class="name">Java</span>
-                            <div class="bar" style="width: 7.370801389884728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">9%</span>
+                            <div class="bar" style="width: 78.01514755810916%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">98%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 1.0479289614472451%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">1%</span>
+                            <div class="bar" style="width: 1.984852441890833%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2%</span>
                         </div>
                     </div>
                 </section>
@@ -3792,7 +3777,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2022, 07:35:34 (timezone Europe/London) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 2 Mar 2022, 08:16:10 (timezone Europe/London) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
