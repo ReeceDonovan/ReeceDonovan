@@ -547,10 +547,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.43298827723316" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="172.43298827723316" y="0" width="170.82470693082882" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="343.257695208062" y="0" width="101.76321382052512" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="445.02090902858714" y="0" width="14.979090971412901" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="174.20042939261722" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="174.20042939261722" y="0" width="167.86065517002564" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="342.06108456264286" y="0" width="102.77443036221344" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="444.8355149248563" y="0" width="15.164485075143707" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -563,7 +563,7 @@
                             </div>
                             <small>
                                 <div>5.47 kB</div>
-                                <div>37.49%</div>
+                                <div>37.87%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -575,7 +575,7 @@
                             </div>
                             <small>
                                 <div>3.23 kB</div>
-                                <div>22.12%</div>
+                                <div>22.34%</div>
                             </small>
                         </div>
                     </section>
@@ -588,8 +588,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>5.42 kB</div>
-                                <div>37.14%</div>
+                                <div>5.27 kB</div>
+                                <div>36.49%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -600,8 +600,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>475 bytes</div>
-                                <div>3.26%</div>
+                                <div>476 bytes</div>
+                                <div>3.3%</div>
                             </small>
                         </div>
                     </section>
@@ -3779,7 +3779,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Mar 2022, 20:37:31 (timezone Europe/London) with lowlighter/metrics@3.22.0-beta</span>
+                <span>Last updated 10 Mar 2022, 21:12:03 (timezone Europe/London) with lowlighter/metrics@3.22.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
