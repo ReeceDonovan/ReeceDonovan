@@ -813,22 +813,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C</span>
-                            <div class="bar" style="width: 29.990401755107637%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 29.969821673525377%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">37%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 29.710681475387357%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 29.722908093278463%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">37%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 17.69367887014946%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 17.700960219478738%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">22%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 2.6052378993555463%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.606310013717421%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                     </div>
@@ -3784,7 +3784,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2022, 11:11:14 (timezone Europe/London) with lowlighter/metrics@3.22.0-beta</span>
+                <span>Last updated 11 Mar 2022, 11:35:17 (timezone Europe/London) with lowlighter/metrics@3.22.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
