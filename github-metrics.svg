@@ -547,9 +547,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.6230017761989" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="276.6230017761989" y="0" width="159.1207815275311" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="435.74378330373" y="0" width="24.256216696269984" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="276.08192341941225" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="276.08192341941225" y="0" width="159.54585930543186" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="435.62778272484417" y="0" width="24.372217275155833" height="8" fill="#2b7489"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -561,8 +561,8 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>5.42 kB</div>
-                                <div>60.14%</div>
+                                <div>5.39 kB</div>
+                                <div>60.02%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -573,8 +573,8 @@
                                 TSX
                             </div>
                             <small>
-                                <div>475 bytes</div>
-                                <div>5.27%</div>
+                                <div>476 bytes</div>
+                                <div>5.3%</div>
                             </small>
                         </div>
                     </section>
@@ -588,7 +588,7 @@
                             </div>
                             <small>
                                 <div>3.12 kB</div>
-                                <div>34.59%</div>
+                                <div>34.68%</div>
                             </small>
                         </div>
                     </section>
@@ -800,17 +800,17 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 48.08529542425589%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 48.10834813499112%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">60%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 27.685473123056422%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="width: 27.673179396092365%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">35%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 4.229231452687695%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.218472468916518%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                     </div>
@@ -3791,7 +3791,7 @@ Signed-off-by: ReeceDonovan &lt;reecedonovan99@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2022, 15:39:12 (timezone Europe/London) with lowlighter/metrics@3.22.0-beta</span>
+                <span>Last updated 13 Mar 2022, 16:18:04 (timezone Europe/London) with lowlighter/metrics@3.22.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
