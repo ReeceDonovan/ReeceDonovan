@@ -541,7 +541,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 8.16kb of code in 10 edited files across 2 commits over last 10 days</small>
+                <small>estimation from 6.47kb of code in 10 edited files across 2 commits over last 10 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -559,7 +559,7 @@
                                 RenderScript
                             </div>
                             <small>
-                                <div>8.11 kB</div>
+                                <div>6.42 kB</div>
                                 <div>100%</div>
                             </small>
                         </div>
@@ -3637,7 +3637,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Apr 2022, 22:14:50 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 28 Apr 2022, 22:40:36 (timezone Europe/London) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
