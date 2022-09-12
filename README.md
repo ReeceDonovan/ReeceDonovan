@@ -2,7 +2,6 @@
 
 - Computer Science Student (3rd Year) @ [University College Cork](https://www.ucc.ie/en/discover/)
 - Head SysAdmin @ [UCC Netsoc](https://github.com/UCCNetsoc/)
-- Software Developer @ [HubSpot](http://product.hubspot.com/)
 
 <details>
   <summary>
