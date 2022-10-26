@@ -1,6 +1,6 @@
 # About Me
 
-- Computer Science Student (3rd Year) @ [University College Cork](https://www.ucc.ie/en/discover/)
+- Computer Science Student (4th Year) @ [University College Cork](https://www.ucc.ie/en/discover/)
 - Head SysAdmin @ [UCC Netsoc](https://github.com/UCCNetsoc/)
 
 <details>
