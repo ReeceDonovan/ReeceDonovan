@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    380k added, 252k removed
+                                    366k added, 247k removed
                                 </div>
                             </section>
                             <section>
@@ -427,14 +427,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="128.6393801685426" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="128.6393801685426" y="0" width="93.8140476287114" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="222.45342779725402" y="0" width="87.4690199188926" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="309.9224477161466" y="0" width="46.25726976253128" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="356.1797174786779" y="0" width="38.54592524094804" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="394.72564271962597" y="0" width="29.89161067081087" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="424.6172533904368" y="0" width="18.339102850299493" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="442.95635624073634" y="0" width="17.043643759263706" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="128.4797969018546" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="128.4797969018546" y="0" width="93.6976668426551" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="222.1774637445097" y="0" width="87.36051044135654" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="309.53797418586623" y="0" width="46.19988542029409" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="355.7378596061603" y="0" width="38.498107188191554" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="394.2359667943519" y="0" width="30.425180575369854" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="424.66114736972173" y="0" width="18.316352321362377" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="442.9774996910841" y="0" width="17.022500308915873" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -447,7 +447,7 @@
                             </div>
                             <small>
                                 <div>571 kB</div>
-                                <div>27.97%</div>
+                                <div>27.93%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -459,7 +459,7 @@
                             </div>
                             <small>
                                 <div>388 kB</div>
-                                <div>19.02%</div>
+                                <div>18.99%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -471,7 +471,7 @@
                             </div>
                             <small>
                                 <div>171 kB</div>
-                                <div>8.38%</div>
+                                <div>8.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -483,7 +483,7 @@
                             </div>
                             <small>
                                 <div>81.5 kB</div>
-                                <div>3.99%</div>
+                                <div>3.98%</div>
                             </small>
                         </div>
                     </section>
@@ -497,7 +497,7 @@
                             </div>
                             <small>
                                 <div>417 kB</div>
-                                <div>20.39%</div>
+                                <div>20.37%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -509,7 +509,7 @@
                             </div>
                             <small>
                                 <div>205 kB</div>
-                                <div>10.06%</div>
+                                <div>10.04%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -520,8 +520,8 @@
                                 Dart
                             </div>
                             <small>
-                                <div>132 kB</div>
-                                <div>6.5%</div>
+                                <div>135 kB</div>
+                                <div>6.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -533,7 +533,7 @@
                             </div>
                             <small>
                                 <div>75.7 kB</div>
-                                <div>3.71%</div>
+                                <div>3.7%</div>
                             </small>
                         </div>
                     </section>
@@ -3230,7 +3230,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.77m out of 219m repositories</span>
+                                    <span class="gh">ranked 1.77m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 13 stars</div>
                             </div>
@@ -3276,7 +3276,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 3.67m out of 219m repositories</span>
+                                    <span class="gh">ranked 3.67m out of 225m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 2 times</div>
                             </div>
@@ -3394,7 +3394,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 30 Dec 2024, 21:33:15 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Dec 2024, 22:03:46 (timezone Europe/London) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
